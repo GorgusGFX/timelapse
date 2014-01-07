@@ -1,0 +1,3 @@
+timelapse.py 
+
+My simple Python timelapse-script for the Raspberry Pi. SO much left to do...
